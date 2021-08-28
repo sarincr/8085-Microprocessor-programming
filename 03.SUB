@@ -1,0 +1,5 @@
+MVI A, 03H
+MVI B, 02H
+SUB B
+MOV B, A
+HLT
